@@ -1,1 +1,6 @@
-# DailySquat-client2
+데일리스쿼트란?
+코로나바이러스때문에 집에서 운동하는 분들을 도와주기위한 웹 서비스!
+일단 회원가입후에! 카메라를 키신후 스쿼트하세요! 그러면 스쿼트를 몇개하였는지, 제대로하였는지 기록해드립니다!
+기록은 언제든지 Mypage에서 확인하실수 있습니다
+자세한 사용법은 하단의 동영상을 확인하세요!
+https://drive.google.com/open?id=16f9sJWas8OtnE5BpUpVhy0eCInIA_Xna =>
